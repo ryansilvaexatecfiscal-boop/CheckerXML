@@ -1,5 +1,5 @@
 {
-  "licensas": [
+  "licencas": [
     {
       "cliente": "EXATEC",
       "licenca": "f5b6e6a5-2849-4292-9e89-a25fc80c5833",

@@ -4,7 +4,7 @@
       "cliente": "EXATEC",
       "licenca": "f5b6e6a5-2849-4292-9e89-a25fc80c5833",
       "dataExpiracao": "02-03-2026",
-      "danfeApi": "OTUzMTQwMjQtY2NhYS00YzM2LTgxOTYtODNjZTJhNmFhZmMw"
+      "danfeApi": "NzY0OWNiMTgtYmRmOC00NDQ1LWJiYWItZjdhMzY4NGFjYzhj"
     },
     {
       "cliente": "MORAES",
